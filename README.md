@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Namch1k
 - 👀 I’m interested in lvl and game desing
-- 🌱 I’m currently learning Unreal engin 4 and C++
+- 🌱 I’m currently learning Unreal engin 4 and C++ and Java
 - 📫 How to reach me: telegram @Namch1k | discord Namch1k#5112
