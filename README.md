@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Namch1k
-- 👀 I’m interested in lvl and game desing
-- 🌱 I’m currently learning Unreal engin 4 and C++ and Java
-- 📫 How to reach me: telegram @Namch1k | discord Namch1k#5112
+- 👋 Hi, I’m Yan
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning CSS, JavaScript and React
+- 📫 How to reach me: telegram @Namch1k | linkedin: https://www.linkedin.com/in/yan-sheleh-130418280/
