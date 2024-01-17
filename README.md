@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yan
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning CSS, JavaScript and React
+- 🌱 I’m currently learning CSS, JavaScript and Vue/Nuxt
 - 📫 How to reach me: telegram @Namch1k | linkedin: https://www.linkedin.com/in/yan-sheleh-130418280/
